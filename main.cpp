@@ -8,8 +8,6 @@
 using namespace std;
 
 
-//YARKIN SIYEZ 30976
-
 string toString(const int & i)  //converts int to string
 {
     string str;
